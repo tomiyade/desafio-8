@@ -1,0 +1,81 @@
+.navBar {
+    padding: 20px;
+    background-color: rgb(154, 163, 165);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navBar img {
+    width: 80px;
+    height: 80px;
+}
+
+
+.navBar a {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.greeting {
+    font-size: 60px;
+}
+
+.fotoCarrito {
+    font-size: 45px;
+}
+
+.fotoCarrito img {
+    width: 50px;
+    height: 50px;
+}
+
+.App {
+    text-align: center;
+}
+
+body {
+    background: #dcdcdc;
+    margin-top: 20px;
+}
+
+
+.camisetas img {
+    width: 250px;
+    height: 250px;
+}
+
+.card-box {
+    padding: 20px;
+    border-radius: 3px;
+    margin-bottom: 30px;
+    background-color: #fff;
+}
+
+
+
+.text-pink {
+    color: #000000 !important;
+}
+
+.text-muted {
+    color: #138dca !important;
+}
+
+/* h4 {
+    line-height: 22px;
+    font-size: 18px;
+} */
+
+.counter {
+    width: fit-content;
+    margin: auto;
+    padding: 1rem;
+    text-align: center;
+}
+
+.finalizar-compra {
+    text-decoration: none;
+    color: #000000;
+}
